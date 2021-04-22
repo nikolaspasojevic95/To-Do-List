@@ -1,0 +1,24 @@
+#prvi {
+  padding: 80px;
+}
+.strike {
+  text-decoration: line-through;
+}
+#list {
+  text-align: center;
+  font-size: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#addBtn {
+  margin: 0;
+  position: absolute;
+  width: 150px;
+}
+#red {
+  margin-left: 300px;
+  margin-right: 300px;
+}
